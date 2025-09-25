@@ -30,11 +30,17 @@ Responsive Design — optimized for desktop and mobile viewing
 📱 Mobile-friendly design with clean layouts
 
 📸 Screenshots
-Dekstop views : ([click for view](screenshot/ss1.png))
-Dekstop views : ([click for view](screenshot/ss2.png))
-Mobile views : ([click for view](screenshot/ss3.png))
-Mobile views : ([click for view](screenshot/ss4.png))
-Mobile views : ([click for view](screenshot/ss5.png))
+
+Desktop View	Mobile View
+### Desktop View
+![Desktop Screenshot](screenshot/ss1.png)
+[Desktop Screenshot](screenshot/ss2.png)
+
+### Mobile View
+![Mobile Screenshot](screenshot/ss3.png)
+[Mobile Screenshot](screenshot/ss4.png)
+[Mobile Screenshot](screenshot/ss5.png)
+
 
 📖 Project Purpose
 
@@ -67,3 +73,4 @@ Portfolio Website
 This project is open for viewing and educational purposes.
 
 🌟 Thank you for visiting my Neon Dashboard Showcase!
+
