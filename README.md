@@ -30,11 +30,11 @@ Responsive Design — optimized for desktop and mobile viewing
 📱 Mobile-friendly design with clean layouts
 
 📸 Screenshots
-Dekstop views : (/screenshot/ss1.png)
-Dekstop views : (/screenshot/ss2.png)
-Mobile views : (/screenshot/ss3.png)
-Mobile views : (/screenshot/ss4.png)
-Mobile views : (/screenshot/ss5.png)
+Dekstop views : ([click for view](screenshot/ss1.png))
+Dekstop views : ([click for view](screenshot/ss2.png))
+Mobile views : ([click for view](screenshot/ss3.png))
+Mobile views : ([click for view](screenshot/ss4.png))
+Mobile views : ([click for view](screenshot/ss5.png))
 
 📖 Project Purpose
 
